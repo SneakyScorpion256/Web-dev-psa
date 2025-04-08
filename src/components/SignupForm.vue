@@ -1,4 +1,7 @@
 <template>
+<h1>
+    Testing for git
+     </h1>
     <form @submit.prevent> 
          <label for="email"> Email </label>
         <input type="text" required v-model="email">
